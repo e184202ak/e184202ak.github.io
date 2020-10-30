@@ -1,0 +1,18 @@
+h1{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: aquamarine
+    
+}
+p{
+    text-align: center;
+    background-color: aquamarine
+        
+}
+body{
+    background-image: url(../images/pureadesu.jpeg);
+    background-attachment: fixed;
+}
