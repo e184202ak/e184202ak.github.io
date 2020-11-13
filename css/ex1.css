@@ -1,0 +1,29 @@
+h1{
+    color: #ff15ff;
+    font-size: 60px;
+    font-weight: normal;
+    font-family: "Impact";
+    text-align: center;
+    background-color: yellow;
+    
+}
+h2{
+    color: red;
+    font-size: 40px;
+    background-color: blue;
+    font-family: "Impact";
+    text-align: center;
+    
+}
+h3{
+    color: yellowgreen;
+}
+p{
+    color: yellow;
+    background-color: darkblue;
+        
+}
+body{
+    background-image: url(../images/ryuusei.jpeg);
+    background-attachment: fixed;
+}
