@@ -1,0 +1,24 @@
+
+#a{
+    color:white;
+    background-color: black;
+}
+#sc{
+    color:red;
+    background-color: aquamarine;
+}
+#sc2{
+    color:pink;
+    background-color: yellow;
+}
+.akclass{
+    color:skyblue;
+    background-color: purple;
+}
+}
+h2{
+    color: red !important;
+}
+h2{
+    color: green;
+}
